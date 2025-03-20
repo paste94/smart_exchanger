@@ -1,0 +1,2 @@
+/Users/paste/Dev/smart_exchanger/smart_exchanger/android/app/.cxx/Debug/1m670o49/x86/CMakeFiles/edit_cache.dir
+/Users/paste/Dev/smart_exchanger/smart_exchanger/android/app/.cxx/Debug/1m670o49/x86/CMakeFiles/rebuild_cache.dir
